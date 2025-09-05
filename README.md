@@ -50,3 +50,6 @@
 - 生徒に対して、生徒の受講科目ごとのチャット可能
 - 生徒一覧ページで学年別に管理できる
 - スマホから操作しやすいUI
+
+![jukulink-origin](https://github.com/user-attachments/assets/b0c03033-2c31-4841-9235-8b23ef6d58df)
+
